@@ -1,0 +1,7 @@
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\obj\Debug\GK-Lesson2.csprojAssemblyReference.cache
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\obj\Debug\GK-Lesson2.csproj.CoreCompileInputs.cache
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\bin\Debug\GK-Lesson2.exe.config
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\bin\Debug\GK-Lesson2.exe
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\bin\Debug\GK-Lesson2.pdb
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\obj\Debug\GK-Lesson2.exe
+D:\work\Geekbrains\Csharp-base\Lesson2\GK-Lesson2\GK-Lesson2\obj\Debug\GK-Lesson2.pdb
